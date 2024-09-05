@@ -5,7 +5,7 @@ import { Web3Provider } from '@ethersproject/providers';
 import { Button, Input, DepositContainer } from '../assets/deposit.style';
 import { depositABI } from '../abi/withdrawAbi';
 
-const depositAddressETH = '0xd2b5994B490A6B4CC1486252Ac60d0b1c5B37719';
+const depositAddressETH = '0x35dDa1aB2307ddE25120Be81d6678f6dad7CC3F5';
 
 const DepositETH = () => {
 
